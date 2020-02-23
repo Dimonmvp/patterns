@@ -1,0 +1,14 @@
+package com.example.patterns.factoryMethod;
+
+abstract public class Dialog {
+
+    void render()
+    {
+        Button okButton = createButton();
+        okButton.onClick(/*CloseDialog*/);
+        okButton.render();
+    }
+
+    abstract Button createButton();
+
+}
