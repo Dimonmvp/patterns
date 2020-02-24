@@ -1,8 +1,9 @@
-package com.example.patterns.abstractFactory;
+package com.example.patterns.generating.abstractFactory;
 
 public class WinButton implements Button{
+
     @Override
-    public void Paint() {
-        // Отрисовать кнопку в стиле Windows.
+    public void paint() {
+
     }
 }

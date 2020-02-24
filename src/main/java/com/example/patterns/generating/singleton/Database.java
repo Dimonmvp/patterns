@@ -1,4 +1,4 @@
-package com.example.patterns.singleton;
+package com.example.patterns.generating.singleton;
 
 public class Database {
     // Поле для хранения объекта-одиночки должно быть объявлено

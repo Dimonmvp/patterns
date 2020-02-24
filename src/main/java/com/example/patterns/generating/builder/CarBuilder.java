@@ -1,4 +1,4 @@
-package com.example.patterns.builder;
+package com.example.patterns.generating.builder;
 
 public class CarBuilder implements Builder {
     Car car;

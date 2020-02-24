@@ -1,9 +1,9 @@
-package com.example.patterns.singleton;
+package com.example.patterns.generating.singleton;
 
 public class Application {
     Database foo = Database.getInstances();
-    foo.query("select ...");
+    //foo.query("select ...");
 
     Database bar = Database.getInstances();
-    bar.query("SELECT ...")
+    //bar.query("SELECT ...")
 }

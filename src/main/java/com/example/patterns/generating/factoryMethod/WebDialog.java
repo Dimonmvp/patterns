@@ -1,4 +1,4 @@
-package com.example.patterns.factoryMethod;
+package com.example.patterns.generating.factoryMethod;
 
 public class WebDialog extends Dialog{
     @Override

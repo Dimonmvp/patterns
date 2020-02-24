@@ -1,4 +1,4 @@
-package com.example.patterns.abstractFactory;
+package com.example.patterns.generating.abstractFactory;
 
 public interface Button {
     void paint();

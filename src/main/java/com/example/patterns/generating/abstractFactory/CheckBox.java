@@ -1,4 +1,4 @@
-package com.example.patterns.abstractFactory;
+package com.example.patterns.generating.abstractFactory;
 
 public interface CheckBox {
     void paint();

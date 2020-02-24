@@ -1,4 +1,4 @@
-package com.example.patterns.prototype;
+package com.example.patterns.generating.prototype;
 
 abstract public class Shape {
     int x;

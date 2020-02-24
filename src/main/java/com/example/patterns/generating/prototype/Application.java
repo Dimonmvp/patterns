@@ -1,6 +1,5 @@
-package com.example.patterns.prototype;
+package com.example.patterns.generating.prototype;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 
